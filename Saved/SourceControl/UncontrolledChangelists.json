@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/pks9/Documents/Unreal Projects/cs415-main/cs415-main/Content/LearningKit_Games/Blueprints/AIChar/BP_Pursuer1.uasset",
+				"C:/Users/pks9/Documents/Unreal Projects/cs415-main/cs415-main/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UIAssets/WBP_health.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/MaterialLibrary/Emissives/MI_EmissiveC1.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/health_pickup_BP.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UIAssets/WBP_restart.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AIChar/BP_Pursuer.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AIChar/EAIState.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/black-panel-restart-system-icon--6.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/mortar/mortar_bp.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/mortar/clip0.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Assets/SFX/clip0.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Assets/VFX/explosion_ns.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/mortar/mortar_enemy_bp.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/NewWorld.umap",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Assets/Environment/Islands/prods.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/AIChar/BP_Pursuer1.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Assets/Environment/Islands/balancebar.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Assets/Environment/Islands/balancebarcurve.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Assets/Environment/Islands/fallingthings.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/killbarrier.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UIAssets/WBP_restart1.uasset",
+				"C:/Users/prart/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/wintrig.uasset"
+			]
+		}
+	]
+}
